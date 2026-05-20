@@ -1,0 +1,19 @@
+STUDENT GRADE REPORT
+==================================================
+
+Name     : Kangana Batghare
+Math     : 95.0
+Science  : 90.0
+English  : 97.0
+Average  : 94.00
+Grade    : A
+Comment  : Excellent Performance!
+--------------------------------------------------
+Name     : Piyush singh
+Math     : 87.0
+Science  : 76.0
+English  : 68.0
+Average  : 77.00
+Grade    : C
+Comment  : Good, Keep Improving.
+--------------------------------------------------
